@@ -49,7 +49,7 @@ const About = () => {
 
           {/* Resume Button */}
           <a
-            href=""
+            href="d:\Desktop\Resume(Mohit).pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-8 text-white font-bold py-3 px-10 rounded-full text-lg 
